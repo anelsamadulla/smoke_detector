@@ -1,4 +1,4 @@
-Timestamp;atm_pm_1_0;atm_pm_10_0;atm_pm_2_5;co2;delta;hum;ma;temp
+time;atm_pm_1_0;atm_pm_10_0;atm_pm_2_5;co2;delta;hum;ma;temp
 2025-08-25 10:31:47;;;;;;29.15;;29.22
 2025-08-25 10:31:58;;;;;;29.54;;29.12
 2025-08-25 10:32:08;;;;;;29.48;;29.05
